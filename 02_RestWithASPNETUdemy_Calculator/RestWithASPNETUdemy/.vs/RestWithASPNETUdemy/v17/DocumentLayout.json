@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35ADC729-FD21-4029-92E6-40F13B492BA9}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwinthasp-netsudemy\\restwinthasp-netsudemy\\02_restwithaspnetudemy_calculator\\restwithaspnetudemy\\restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:51:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
               "RelativeToolTip": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-19T02:04:10.141Z",
               "EditorCaption": ""
@@ -40,18 +57,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwCoAAAAXAAAAAAAAAA==",
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T00:48:35.45Z"
+              "WhenOpened": "2025-09-19T00:48:35.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWinthASP-NETSUdemy\\RestWinthASP-NETSUdemy\\02_RestWithASPNETUdemy_Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Program.cs",
