@@ -8,11 +8,10 @@ using RestWithASPNETErudio.Model.Context;
 using RestWithASPNETErudio.Business;
 using RestWithASPNETErudio.Business.Implementations;
 using RestWithASPNETErudio.Repository;
-using RestWithASPNETErudio.Repository.Generic;
 using Serilog;
 using System;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore.Migrations;
+using RestWithASPNETErudio.Repository.Generic;
 
 namespace RestWithASPNETErudio 
 {
@@ -49,18 +48,31 @@ namespace RestWithASPNETErudio
 
             // Dependency Injection
             services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
-            services.AddScoped<IPersonRepository, PersonRepositoryImplementation>();
             services.AddScoped<IBookBusiness, BookBusinessImplementation>();
-            services.AddScoped<IBookRepository, BookRepositoryImplementation>();
+
+            services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
         }
 
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if(env.IsDevelopment()) {
+            if(env.IsDevelopment()) 
+            {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseHttpsRedirection();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints => 
+            {
+                endpoints.MapControllers();
+            });
         }
+        private void()
     }
 }

@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementatio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementatio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\data\\vo\\personvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\data\\vo\\personvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\data\\converter\\implementations\\personconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\data\\converter\\implementations\\personconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\data\\converter\\contract\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\data\\converter\\contract\\iparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\business\\implementations\\bookbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\implementations\\bookbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBookRepository.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:24:56.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:24:40.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonRepositoryImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:19:10.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookRepositoryImplementatio.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:18:14.259Z",
+              "WhenOpened": "2025-09-26T16:39:43.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PersonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\Converter\\Implementations\\PersonConverter.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Data\\Converter\\Implementations\\PersonConverter.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\Converter\\Implementations\\PersonConverter.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Data\\Converter\\Implementations\\PersonConverter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:33:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonVO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\VO\\PersonVO.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Data\\VO\\PersonVO.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\VO\\PersonVO.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Data\\VO\\PersonVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:32:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\Converter\\Contract\\IParser.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Data\\Converter\\Contract\\IParser.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Data\\Converter\\Contract\\IParser.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Data\\Converter\\Contract\\IParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:31:51.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:06:28.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:05:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Startup.cs",
               "RelativeDocumentMoniker": "RestWithASPNETErudio\\Startup.cs",
               "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Startup.cs",
               "RelativeToolTip": "RestWithASPNETErudio\\Startup.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAxwD0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T12:44:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\BookBusinessImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:21:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Book.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:21:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Generic\\GenericRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:12:54.265Z",
               "EditorCaption": ""
             }
           ]

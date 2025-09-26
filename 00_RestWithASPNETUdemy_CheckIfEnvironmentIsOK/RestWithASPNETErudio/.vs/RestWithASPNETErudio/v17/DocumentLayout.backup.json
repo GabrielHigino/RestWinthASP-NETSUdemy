@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\migrations\\v3__create_table_books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\migrations\\v3__create_table_books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\restwithaspneterudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\restwithaspneterudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementatio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementatio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\migrations\\v3__create_table_books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\migrations\\v3__create_table_books.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\00_restwithaspnetudemy_checkifenvironmentisok\\restwithaspneterudio\\restwithaspneterudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,102 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "V2__Populate_Table_Person.sql ",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
-              "RelativeToolTip": "RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-26T03:05:46.598Z",
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:24:56.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "V3__Create_Table_Books.sql ",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V3__Create_Table_Books.sql",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\migrations\\V3__Create_Table_Books.sql",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V3__Create_Table_Books.sql",
-              "RelativeToolTip": "RestWithASPNETErudio\\db\\migrations\\V3__Create_Table_Books.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-26T03:05:34.71Z",
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:24:40.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "V1__Create_Table_Person.sql ",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V1__Create_Table_Person.sql",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\migrations\\V1__Create_Table_Person.sql",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V1__Create_Table_Person.sql",
-              "RelativeToolTip": "RestWithASPNETErudio\\db\\migrations\\V1__Create_Table_Person.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-26T03:05:06.639Z",
+              "Title": "PersonRepositoryImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:19:10.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RestWithASPNETErudio",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\RestWithASPNETErudio.csproj",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\RestWithASPNETErudio.csproj",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\RestWithASPNETErudio.csproj",
-              "RelativeToolTip": "RestWithASPNETErudio\\RestWithASPNETErudio.csproj",
+              "Title": "BookRepositoryImplementatio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementatio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T02:59:16.029Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:18:14.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IPersonBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Startup.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Startup.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Startup.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAxwD0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T02:22:21.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Generic\\IRepository.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Generic\\IRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Generic\\IRepository.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Generic\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T02:21:05.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T02:19:32.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\00_RestWithASPNETUdemy_CheckIfEnvironmentIsOK\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T19:40:41.078Z",
+              "WhenOpened": "2025-09-26T12:44:05.451Z",
               "EditorCaption": ""
             }
           ]
