@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\model\\script\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\script\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\users\\user\\projetos\\aspnet8playground\\04_restwithaspnetudemy_connectingtodatabase\\restwithaspneterudio\\restwithaspneterudio\\model\\script\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{EB37166A-EC66-472A-A823-55D4E2A5575D}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\model\\script\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T02:10:38.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T02:01:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:54:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:24:21.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:22:46.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T01:19:33.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:18:24.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "script.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Script\\script.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Model\\Script\\script.sql",
+              "ToolTip": "C:\\Users\\User\\Projetos\\AspNet8Playground\\04_RestWithASPNETUdemy_ConnectingToDatabase\\RestWithASPNETErudio\\RestWithASPNETErudio\\Model\\Script\\script.sql",
+              "RelativeToolTip": "RestWithASPNETErudio\\Model\\Script\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-26T01:16:40.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
