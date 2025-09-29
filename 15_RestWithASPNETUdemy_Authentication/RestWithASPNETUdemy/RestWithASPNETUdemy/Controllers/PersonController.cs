@@ -6,12 +6,11 @@ using RestWithASPNETUdemy.Data.VO;
 using RestWithASPNETUdemy.Hypermedia.Filters;
 using System.Collections.Generic;
 
-namespace RestWithASPNETUdemy.Controllers
-{
+namespace RestWithASPNETUdemy.Controllers {
 
     [ApiVersion("1")]
     [ApiController]
-    [Authorize("Bearer")]
+    [Authorize("Beare")]
     [Route("api/[controller]/v{version:apiVersion}")]
     public class PersonController : ControllerBase
     {
