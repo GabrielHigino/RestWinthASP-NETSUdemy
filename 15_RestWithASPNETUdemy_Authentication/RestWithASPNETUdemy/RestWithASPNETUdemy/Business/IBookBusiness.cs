@@ -8,7 +8,7 @@ namespace RestWithASPNETUdemy.Business
         BookVO Create(BookVO book);
         BookVO FindByID(long id);
         List<BookVO> FindAll();
-        BookVO Update(BookVO book);
+        BookVO Update(BookVO book); 
         void Delete(long id);
     }
 }

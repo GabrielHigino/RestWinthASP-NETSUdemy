@@ -14,7 +14,7 @@ namespace RestWithASPNETUdemy.Business.Implementations
         private readonly PersonConverter _converter;
 
         public PersonBusinessImplementation(IRepository<Person> repository)
-        {
+        {   
             _repository = repository;
             _converter = new PersonConverter();
         }

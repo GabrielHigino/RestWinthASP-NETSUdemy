@@ -19,7 +19,7 @@ using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Rewrite;
 
 namespace RestWithASPNETUdemy
-{
+{       
     public class Startup
     {
         public IConfiguration Configuration { get; }

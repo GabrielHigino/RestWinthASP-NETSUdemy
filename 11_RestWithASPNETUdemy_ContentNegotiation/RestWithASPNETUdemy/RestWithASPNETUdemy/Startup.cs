@@ -16,7 +16,7 @@ using Microsoft.Net.Http.Headers;
 
 namespace RestWithASPNETUdemy
 {
-    public class Startup
+    public class Startup    
     {
         public IConfiguration Configuration { get; }
         public IWebHostEnvironment Environment { get; }

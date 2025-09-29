@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
 namespace RestWithASPNETUdemy
-{
+{   
     public class Startup
     {
         public Startup(IConfiguration configuration)

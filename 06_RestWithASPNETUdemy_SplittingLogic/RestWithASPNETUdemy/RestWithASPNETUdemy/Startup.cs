@@ -13,7 +13,7 @@ using RestWithASPNETUdemy.Repository.Implementations;
 namespace RestWithASPNETUdemy
 {
     public class Startup
-    {
+    {       
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
