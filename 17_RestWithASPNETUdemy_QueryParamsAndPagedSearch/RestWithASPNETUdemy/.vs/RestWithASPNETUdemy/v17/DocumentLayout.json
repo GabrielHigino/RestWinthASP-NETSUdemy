@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\restwithaspnetudemy\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\hypermedia\\utils\\pagedsearchvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagedSearchVO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Hypermedia\\Utils\\PagedSearchVO.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Hypermedia\\Utils\\PagedSearchVO.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Hypermedia\\Utils\\PagedSearchVO.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Hypermedia\\Utils\\PagedSearchVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:02:31.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\restwithaspnetudemy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:04:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:03:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\BookController.cs",
@@ -75,33 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPersonBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:02:29.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBookBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:02:23.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BookBusinessImplementation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\BookBusinessImplementation.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\BookBusinessImplementation.cs",
@@ -109,12 +117,61 @@
               "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\BookBusinessImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:02:20.993Z",
+              "WhenOpened": "2025-09-29T19:02:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:30:15.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:44:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IBookBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:02:23.913Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:02:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PersonBusinessImplementation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
@@ -122,12 +179,11 @@
               "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:02:16.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T19:02:16.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
@@ -135,24 +191,11 @@
               "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAA+wGAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:06:37.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T16:06:37.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:44:06.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ILoginBusiness.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
@@ -160,25 +203,11 @@
               "RelativeToolTip": "RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T13:30:13.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T13:30:13.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginBusinessImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T13:30:15.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\TokenService.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\Implementations\\TokenService.cs",
@@ -190,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\ITokenService.cs",
@@ -202,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Startup.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Startup.cs",
