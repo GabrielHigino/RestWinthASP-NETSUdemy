@@ -77,8 +77,7 @@ namespace RestWithASPNETUdemy
             try
             {
                 var evolveConnection = new MySql.Data.MySqlClient.MySqlConnection(connection);
-                var evolve = new Evolve.Evolve(evolveConnection, msg => Log.Information(msg))
-                {
+                var evolve = new Evolve.Evolve(evolveConnection, msg => Log.Information(msg)) {
                     Locations = new List<string> { "db/migrations", "db/dataset" },
                     IsEraseDisabled = true,
                 };

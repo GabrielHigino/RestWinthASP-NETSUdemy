@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\07_restwithaspnetudemy_addingsupporttodatabasemigrations\\restwithaspnetudemy\\restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +34,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "V1__Create_Table_Person.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
+              "RelativeToolTip": "RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-01T15:13:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:13:35.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Startup.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Startup.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Startup.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAxwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:56:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestWithASPNETUdemy",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T14:56:13.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Program.cs",
