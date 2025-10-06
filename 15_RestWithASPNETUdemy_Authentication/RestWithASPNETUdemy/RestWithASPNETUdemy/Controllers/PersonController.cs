@@ -10,7 +10,7 @@ namespace RestWithASPNETUdemy.Controllers {
 
     [ApiVersion("1")]
     [ApiController]
-    [Authorize("Beare")]
+    [Authorize("Bearer")]
     [Route("api/[controller]/v{version:apiVersion}")]
     public class PersonController : ControllerBase
     {

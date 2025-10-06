@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\ci\\init_database.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\ci\\init_database.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE5BEECD-2387-4F97-AB97-1D083F05E652}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\19_restwithaspnetudemy_addingdockersupport\\restwithaspnetudemy\\restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +58,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:50:21.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\BookController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:50:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:49:54.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "init_database.sh",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\ci\\init_database.sh",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\ci\\init_database.sh",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\ci\\init_database.sh",
+              "RelativeToolTip": "RestWithASPNETUdemy\\ci\\init_database.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-10-01T20:18:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Dockerfile",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Dockerfile",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-01T20:09:42.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -26,8 +134,82 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-01T20:13:06.185Z",
+              "WhenOpened": "2025-10-01T20:09:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T22:45:36.375Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T22:44:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\FileController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:39:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-01T20:09:33.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-01T20:09:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\19_RestWithASPNETUdemy_AddingDockerSupport\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:38:33.508Z"
             }
           ]
         }

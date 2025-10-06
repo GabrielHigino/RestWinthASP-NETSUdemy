@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\db\\migrations\\v1__create_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48C211E-E692-4545-9F96-EB0BE4E2324F}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\users\\user\\projetos\\restwithasp-net5udemy\\16_restwithaspnetudemy_pathverb\\restwithaspnetudemy\\restwithaspnetudemy\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
@@ -35,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T22:33:58.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T22:33:20.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:33:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "V2__Populate_Table_Person.sql ",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\db\\dataset\\V2__Populate_Table_Person.sql",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\db\\dataset\\V2__Populate_Table_Person.sql",
@@ -46,19 +93,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "V1__Create_Table_Person.sql ",
+              "DocumentIndex": 4,
+              "Title": "V1__Create_Table_Person.sql",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
               "ToolTip": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
               "RelativeToolTip": "RestWithASPNETUdemy\\db\\migrations\\V1__Create_Table_Person.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-01T14:40:55.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T14:40:55.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TokenConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Projetos\\RestWithASP-NET5Udemy\\16_RestWithASPNETUdemy_PATHVerb\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Configurations\\TokenConfiguration.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Configurations\\TokenConfiguration.cs",
@@ -66,8 +112,7 @@
               "RelativeToolTip": "RestWithASPNETUdemy\\Configurations\\TokenConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T20:28:02.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T20:28:02.286Z"
             }
           ]
         }
